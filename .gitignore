@@ -1,0 +1,17 @@
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+packages/
+_ReSharper.*/
+*.suo
+*.sln.cache
+*.orig
+*.bak
+*.user
+*.ds_store
+*.crunchsolution.cache
+*.crunchsolution.local.xml
+*.ncrunchsolution
+*.ncrunchproject
